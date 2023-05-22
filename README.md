@@ -1,6 +1,6 @@
 # README - Projet de Système de Gestion de Bibliothèque
 
-# realiser par MEGRINI Maha et TALIB mohamed
+## realiser par MEGRINI Maha et TALIB mohamed
 
 Ce projet est un système de gestion de bibliothèque qui permet une gestion efficace des livres, des enregistrements des étudiants et des réservations. Il offre différentes fonctionnalités à la fois pour les étudiants et les administrateurs, rendant les opérations de bibliothèque simples et conviviales.
 
