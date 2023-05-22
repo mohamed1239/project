@@ -1,0 +1,7 @@
+9780974192581,think and grow rich,Napoleon Hill,Briggs International,2004,Fantaisie,reserver,0
+9780446310789,to kill a mockingbird,Harper Lee,Grand Central Publishing,1988,Fiction,reserver,0
+9780451167712,the godfather,Mario Puzo,Penguin Group USA,1995,Crime,reserver,0
+9780316402781,23rd Midnight,James Patterson,Little Brown and Company,2023,Mystere,Disponible,2
+9780984782802,Cracking the Coding Interview,Gayle Laakmann McDowell,CareerCup,2015,Educatif,Disponible,10
+9780439023481,the hunger games,Suzanne Collins,Scholastic Press,2008,Science fiction,Disponible,27
+9780446677455,Rich Dad Poor Dad,Robert Kiyosaki,Business Plus,2000,Dev personnel,Disponible,19
