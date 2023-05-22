@@ -40,5 +40,6 @@ Ce projet est un système de gestion de bibliothèque qui permet une gestion eff
 - Les détails des livres et étudiants sont stockés dans une structure de données spécifique, permettant une gestion et une récupération efficaces.
 
 Note :
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 - Ce projet est développé dans le cadre de et sert de devoir académique.
 - Pour toute question, clarification ou commentaire, n'hésitez pas de nous contacter.
