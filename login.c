@@ -98,7 +98,7 @@ int main() {
 										system("cls");                                		
 										printf("Connectez-vous \x61 votre compte\n");
 
-                                        printf("Entrer votre code Apogee: ");
+                                        printf("Entrer votre code Apog\x82""e: ");
                                         if (scanf("%d", & numApoge) != 1) { // to not go to infinit loop if we enter a string instead of an integer 
                                                 printf("Invalide\n");
                                                 getchar(); // this clears the string we enter 
@@ -179,8 +179,7 @@ int main() {
                                                                 display_books_list(head);
                                                                 printf("Press any key to continue...\n");
                                                                 getch();
-                                                                break;
-                                                                //goto outer_menu;
+                                                                break;                                                                
                                                         case 3:
                                                                 printf("%d\n", numApoge); //debuggimg 
                                                                 book_reservation(head, numApoge);
@@ -203,8 +202,8 @@ int main() {
                                         break;
                                 case 2:
                                 		system("cls");
-                                		printf("creation de votre compte\n");
-                                        printf("Entrer votre code Apogee: ");
+                                		printf("Cr\x82""ation de votre compte\n");
+                                        printf("Entrer votre code Apog\x82""e: ");
                                         scanf("%d", & numApoge);
                                         printf("Entrer votre mot de passe: ");
                                         scanf("%s", password);
@@ -549,7 +548,7 @@ void search_by_author(Book *head) {
 
 void search_by_publisher(Book *head) {
     char publisher[50];
-    printf("Saisir l'\x82diteur \x85 chercher: ");
+    printf("Saisir l'\x82""diteur \x85 chercher: ");
     getchar();  // Consume the newline character
     scanf("%[^\n]", publisher);
 
@@ -573,9 +572,9 @@ void search_by_publisher(Book *head) {
     }
 
     if (count == 0) {
-        printf("Aucun livre trouv\x82 de cet éditeur.\n");
+        printf("Aucun livre trouv\x82 de cet \x82""diteur.\n");
     } else {
-        printf("Nombre de livres trouv\x82s de l'\x82diteur '%s': %d\n", publisher, count);
+        printf("Nombre de livres trouv\x82""s de l'\x82""diteur '%s': %d\n", publisher, count);
     }
 }
 
