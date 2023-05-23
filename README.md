@@ -41,5 +41,5 @@ Ce projet est un système de gestion de bibliothèque qui permet une gestion eff
 
 Note :
 
-- Ce projet est développé dans le cadre de et sert de devoir académique.
+- Ce projet est développé dans un cadre d'un devoir académique.
 - Pour toute question, clarification ou commentaire, n'hésitez pas de nous contacter.
