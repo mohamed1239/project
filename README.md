@@ -1,45 +1,45 @@
-# README - Projet de Système de Gestion de Bibliothèque
+# README - Library Management System Project
 
-## realiser par MEGRINI Maha et TALIB mohamed
+## Implemented by  TALIB Mohamed and MEGRINI Maha
 
-Ce projet est un système de gestion de bibliothèque qui permet une gestion efficace des livres, des enregistrements des étudiants et des réservations. Il offre différentes fonctionnalités à la fois pour les étudiants et les administrateurs, rendant les opérations de bibliothèque simples et conviviales.
+This project is a library management system that enables efficient management of books, student records, and reservations. It offers various features for both students and administrators, making library operations simple and user-friendly.
 
-## Fonctionnalités
+## Features
 
-1. Inscription et Connexion des Étudiants :
-   - Les étudiants peuvent créer un compte et se connecter pour accéder au système.
-   - L'authentification sécurisée garantit la confidentialité et l'intégrité des comptes des étudiants.
+1. **Student Registration and Login:**
+   - Students can create an account and log in to access the system.
+   - Secure authentication ensures the confidentiality and integrity of student accounts.
 
-2. Connexion des Administrateurs :
-   - Les administrateurs ont un accès privilégié au système pour gérer les opérations de bibliothèque.
-   - Des identifiants de connexion et des fonctionnalités distinctes pour les administrateurs assurent un contrôle et une sécurité appropriés.
+2. **Administrator Login:**
+   - Administrators have privileged access to the system to manage library operations.
+   - Separate login credentials and functionalities for administrators ensure proper control and security.
 
-3. Gestion des Livres :
-   - Les administrateurs peuvent ajouter de nouveaux livres à la bibliothèque avec des informations détaillées telles que le titre, l'auteur, l'éditeur, l'ISBN, etc.
-   - Le système stocke les données des livres dans une structure de données spécifique, permettant une manipulation et des fonctionnalités de recherche faciles.
+3. **Book Management:**
+   - Administrators can add new books to the library with detailed information such as title, author, publisher, ISBN, etc.
+   - The system stores book data in a specific data structure, allowing easy manipulation and search functionalities.
 
-4. Recherche de Livres :
-   - Les étudiants peuvent rechercher des livres par titre, auteur, éditeur ou ISBN.
-   - Des algorithmes de recherche efficaces fournissent des résultats rapides et précis.
+4. **Book Search:**
+   - Students can search for books by title, author, publisher, or ISBN.
+   - Efficient search algorithms provide quick and accurate results.
 
-5. Réservation de Livres :
-   - Les étudiants peuvent réserver des livres qui ne sont actuellement pas disponibles.
-   - Le système de réservation gère une file d'attente où les identifiants des étudiants sont ajoutés.
+5. **Book Reservation:**
+   - Students can reserve books that are currently unavailable.
+   - The reservation system manages a queue where student identifiers are added.
 
-6. Affichage des Informations des Livres et des Étudiants :
-   - Le système permet d'afficher une liste complète des livres et des enregistrements des étudiants.
-   - Cette fonctionnalité offre aux administrateurs un aperçu des ressources de la bibliothèque et des activités des étudiants.
+6. **Display of Book and Student Information:**
+   - The system allows displaying a comprehensive list of books and student records.
+   - This feature provides administrators with an overview of library resources and student activities.
 
-## Stockage des Données
+## Data Storage
 
-- Les informations des étudiants, des administrateurs et des livres sont stockées dans des fichiers distincts.
-- Chaque fichier organise les données dans un format approprié pour une lecture aisée et des modifications ultérieures.
+- Student, administrator, and book information are stored in separate files.
+- Each file organizes data in a suitable format for easy reading and subsequent modifications.
 
-## Structures de Données Utilisées
+## Used Data Structures
 
-- Les détails des livres et étudiants sont stockés dans une structure de données spécifique, permettant une gestion et une récupération efficaces.
+- Details of books and students are stored in a specific data structure, allowing efficient management and retrieval.
 
-Note :
+**Note:**
 
-- Ce projet est développé dans un cadre d'un devoir académique.
-- Pour toute question, clarification ou commentaire, n'hésitez pas de nous contacter.
+- This project is developed within the context of an academic assignment.
+- For any questions, clarifications, or comments, feel free to contact us.
